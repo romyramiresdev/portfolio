@@ -17,6 +17,7 @@
   max-width: 40ch;
   margin-bottom: 60px;
   color: #525252;
+  text-align: justify;
 }
 
 .experiencia-texto strong {
@@ -39,7 +40,7 @@
   display: block;
   width: 4px;
   height: 20px;
-  background: linear-gradient(#b6f829, #67dd0a);
+  background: linear-gradient(#00008c, #0000ff);
   position: absolute;
   top: 20px;
   left: -4px;

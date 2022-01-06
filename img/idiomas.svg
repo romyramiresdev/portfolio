@@ -1,9 +1,22 @@
-<svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M12.65 15.67C12.79 15.31 12.7 14.9 12.42 14.62L10.33 12.56L10.36 12.53C12.1 10.59 13.34 8.36 14.07 6H16.01C16.55 6 17 5.55 17 5.01V4.99C17 4.45 16.55 4 16.01 4H10V3C10 2.45 9.55 2 9 2C8.45 2 8 2.45 8 3V4H1.99C1.45 4 1 4.45 1 4.99C1 5.54 1.45 5.98 1.99 5.98H12.17C11.5 7.92 10.44 9.75 9 11.35C8.19 10.46 7.51 9.49 6.94 8.47C6.78 8.18 6.49 8 6.16 8C5.47 8 5.03 8.75 5.37 9.35C6 10.48 6.77 11.56 7.67 12.56L3.3 16.87C2.9 17.26 2.9 17.9 3.3 18.29C3.69 18.68 4.32 18.68 4.72 18.29L9 14L11.02 16.02C11.53 16.53 12.4 16.34 12.65 15.67V15.67ZM17.5 10C16.9 10 16.36 10.37 16.15 10.94L12.48 20.74C12.24 21.35 12.7 22 13.35 22C13.74 22 14.09 21.76 14.23 21.39L15.12 19H19.87L20.77 21.39C20.91 21.75 21.26 22 21.65 22C22.3 22 22.76 21.35 22.53 20.74L18.86 10.94C18.64 10.37 18.1 10 17.5 10V10ZM15.88 17L17.5 12.67L19.12 17H15.88V17Z" fill="url(#paint0_linear)"/>
-<defs>
-<linearGradient id="paint0_linear" x1="11.795" y1="2" x2="11.795" y2="22" gradientUnits="userSpaceOnUse">
-<stop stop-color="#B6F829"/>
-<stop offset="1" stop-color="#67DD0A"/>
-</linearGradient>
-</defs>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2019 (64 Bit) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="25px" height="25px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 25 25"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:url(#id0)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="11" y1="0.69" x2="11" y2="24.69">
+   <stop offset="0" style="stop-opacity:1; stop-color:#00008C"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:blue"/>
+  </linearGradient>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0" d="M12.93 17.09c0.15,-0.43 0.05,-0.92 -0.26,-1.26l-2.32 -2.47 0.03 -0.04c1.93,-2.32 3.31,-5 4.12,-7.83l2.16 0c0.6,0 1.1,-0.54 1.1,-1.19l0 -0.02c0,-0.65 -0.5,-1.19 -1.1,-1.19l-6.68 0 0 -1.2c0,-0.66 -0.5,-1.2 -1.11,-1.2 -0.61,0 -1.11,0.54 -1.11,1.2l0 1.2 -6.69 0c-0.6,0 -1.1,0.54 -1.1,1.19 0,0.66 0.5,1.18 1.1,1.18l11.32 0c-0.74,2.33 -1.92,4.53 -3.52,6.45 -0.9,-1.07 -1.66,-2.23 -2.29,-3.46 -0.18,-0.35 -0.5,-0.56 -0.87,-0.56 -0.77,0 -1.26,0.9 -0.88,1.62 0.7,1.35 1.56,2.65 2.56,3.85l-4.86 5.17c-0.44,0.47 -0.44,1.24 0,1.71 0.43,0.46 1.14,0.46 1.58,0l4.76 -5.15 2.24 2.42c0.57,0.61 1.54,0.39 1.82,-0.42l0 0zm5.39 -6.8c-0.67,0 -1.27,0.44 -1.5,1.13l-4.08 11.76c-0.27,0.73 0.24,1.51 0.96,1.51 0.44,0 0.83,-0.29 0.98,-0.73l0.99 -2.87 5.28 0 1 2.87c0.16,0.43 0.55,0.73 0.98,0.73 0.72,0 1.23,-0.78 0.98,-1.51l-4.08 -11.76c-0.25,-0.69 -0.85,-1.13 -1.51,-1.13l0 0zm-1.8 8.4l1.8 -5.2 1.8 5.2 -3.6 0 0 0z"/>
+ </g>
 </svg>
